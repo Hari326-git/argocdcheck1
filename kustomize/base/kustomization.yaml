@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: hariprasad326/hello-gitops
-  newTag: 5225eeb71bb314257f817967a351364d707737e1
+  newTag: 25b0b33d6d205740243b96d1dad143308c3b8c89
